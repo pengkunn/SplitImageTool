@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SplitImageTool/v14
+/SplitImage.Core/obj/Debug
+/SplitImage.Core/bin/Debug
+/SplitImageTool/obj/Debug
+/SplitImageTool/bin/Debug
+*.suo
